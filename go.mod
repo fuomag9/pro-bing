@@ -1,4 +1,4 @@
-module github.com/fuomag9/pro-bing
+module github.com/prometheus-community/pro-bing
 
 go 1.19
 
